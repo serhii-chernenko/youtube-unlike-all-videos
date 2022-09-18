@@ -8,5 +8,6 @@
 4. Press `F12` or `Fn+F12` to open the browser's DevTools window.
 5. Open the tab Console:<br/><img width="300" alt="image" src="https://user-images.githubusercontent.com/28815318/190900033-ae06a06a-dce3-4bbe-9bc2-0622ae168dff.png">
 6. Insert the copied code from the file `index.js` to first row and press `Enter`.
-7. Wait a few minutes while script going to be completed. You have to see the green message `Done!`:
+7. Wait a few minutes while script going to be completed. You have to see the green message `Done!`
+
 https://user-images.githubusercontent.com/28815318/190900492-457c2dc5-1f71-45f2-8863-49dcad9e286a.mp4
